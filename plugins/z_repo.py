@@ -16,7 +16,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/Gokukhan1/Xeno-kakarot-"
+                        "ƨσʋяcɛ", url=f"https://t.me/addlist/dor9owflj59jNzll"
                     )
                 ]
             ]
@@ -33,7 +33,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/Gokukhan1/Xeno-kakarot-"
+                        "ƨσʋяcɛ", url=f"https://t.me/addlist/dor9owflj59jNzll"
                     )
                 ]
             ]
