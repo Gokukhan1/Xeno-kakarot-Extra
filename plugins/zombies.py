@@ -11,7 +11,7 @@ chatQueue = []
 stopProcess = False
 
 
-@app.on_message(filters.command(["zombies"]))
+@app.on_message(filters.command(["zombies", "gandu"]))
 @adminsOnly("can_restrict_members")
 async def remove(client, message):
 
