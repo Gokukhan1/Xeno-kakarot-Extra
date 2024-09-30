@@ -1,4 +1,5 @@
 import os
+import logging 
 import textwrap
 import time
 from datetime import datetime
@@ -17,6 +18,8 @@ from pyrogram.types import (
 from VIPMUSIC import app
 from VIPMUSIC.mongo.imgwelcome_db import dwelcome_off, dwelcome_on, is_dwelcome_on
 from VIPMUSIC.utils.vip_ban import admin_filter
+
+LOGGER = getLogger(__name__)
 
 SUDO_USERS = ["7078181502", "6346273488"]
 BOT_USERNAME = "Baby_dark_music_rebot"
