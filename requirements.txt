@@ -1,5 +1,6 @@
 apscheduler
 bing-image-urls
+Pillow==8.4.0
 gTTS
 googlesearch-python
 httpx[http2]
