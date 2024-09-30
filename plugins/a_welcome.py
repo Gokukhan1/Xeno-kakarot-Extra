@@ -62,7 +62,7 @@ def draw_multiple_line_text(image, text, font, text_start_height):
 
 def welcomepic(pic, user, chat, user_id):
     background = Image.open(
-        "VIPMUSIC/assets/Goku.png"
+        "VIPMUSIC/assets/hasnainkk.png"
     )  # <- Background Image (Should be PNG)
     background = background.resize(
         (background.size[0], background.size[1]), Image.ANTIALIAS
