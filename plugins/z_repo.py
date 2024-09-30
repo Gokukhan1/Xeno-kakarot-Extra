@@ -24,7 +24,7 @@ async def help(client: Client, message: Message):
     )
 
 
-@app.on_message(filters.command("clone"))
+@app.on_message(filters.command("janeman"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://envs.sh/S8h.mp4",
