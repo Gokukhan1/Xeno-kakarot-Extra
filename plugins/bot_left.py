@@ -8,11 +8,11 @@ from VIPMUSIC import app
 from VIPMUSIC.utils.database import delete_served_chat, get_assistant
 
 photo = [
-    "https://envs.sh/qN8.jpg",
-    "https://envs.sh/qNk.jpg",
-    "https://envs.sh/qNl.jpg",
-    "https://envs.sh/qN4.jpg",
-    "https://envs.sh/qNU.jpg",
+    "https://files.catbox.moe/tt4gn6.jpg",
+    "https://files.catbox.moe/zem3gg.jpg",
+    "https://files.catbox.moe/zem3gg.jpg",
+    "https://files.catbox.moe/4dlcze.jpg",
+    "https://files.catbox.moe/xzjfj6.jpg",
 ]
 
 
