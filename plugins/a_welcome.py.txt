@@ -22,8 +22,8 @@ from VIPMUSIC.utils.vip_ban import admin_filter
 LOGGER = getLogger(__name__)
 
 SUDO_USERS = ["7078181502", "6346273488"]
-BOT_USERNAME = "Baby_dark_music_rebot"
-LOG_CHANNEL = (-1002009280180)
+BOT_USERNAME = "Carla_probot"
+LOG_CHANNEL = (-1002117240104)
 
 class temp:
     ME = None
